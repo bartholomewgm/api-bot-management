@@ -1,0 +1,5 @@
+Django
+djangorestframework
+openai
+python-dotenv
+python-telegram-bot
